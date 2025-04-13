@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-gray-800">THE MUNDI (S) SELF SUPPORTING 
-                CO-OPERATIVE House Building Society Ltd., Mohali</h1>
+                CO-OPERATIVE Housing society </h1>
           </div>
           
           {/* Desktop Navigation */}
